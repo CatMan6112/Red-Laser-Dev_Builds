@@ -1,26 +1,53 @@
-The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant, above, permitting limited production use.
+#PROPRIETARY END USER LICENSE AGREEMENT
+###Effective Date: May 25, 2025
 
-Effective on the Change Date, or the fourth anniversary of the first publicly available distribution of a specific version of the Licensed Work under this License, whichever comes first, the Licensor hereby grants you rights under the terms of the Change License, and the rights granted in the paragraph above terminate.
+###IMPORTANT: READ CAREFULLY BEFORE INSTALLING OR USING. BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
 
-If your use of the Licensed Work does not comply with the requirements currently in effect as described in this License, you must purchase a commercial license from the Licensor, its affiliated entities, or authorized resellers, or you must refrain from using the Licensed Work.
+1. Definitions
+1.1 “Software” means the game titled Red Laser (subject to change) and all builds, executables, assets, data files, scripts, or other materials provided via GitHub or GitHub Pages by CatMan6112 (also known as “CatMan”), including all updates and upgrades.
+1.2 “You” or “Licensee” means the individual or entity that downloads, accesses, or uses the Software.
+1.3 “Licensor” means CatMan6112 (also known as “CatMan”), the copyright owner and provider of the Software.
 
-All copies of the original and modified Licensed Work, and derivative works of the Licensed Work, are subject to this License. This License applies separately for each version of the Licensed Work and the Change Date may vary for each version of the Licensed Work released by Licensor.
+2. Grant of License
+2.1 Subject to your compliance with this Agreement, Licensor grants you a limited, non-exclusive, non-transferable license to use the Software solely for your personal, non-commercial entertainment purposes.
+2.2 You may download and run the publicly accessible builds via GitHub or GitHub Pages only as provided.
 
-You must conspicuously display this License on each original or modified copy of the Licensed Work. If you receive the Licensed Work in original or modified form from a third party, the terms and conditions set forth in this License apply to your use of that work.
+3. Restrictions
+You SHALL NOT, directly or indirectly, in whole or in part:
 
-Any use of the Licensed Work in violation of this License will automatically terminate your rights under this License for the current and all other versions of the Licensed Work.
+3.1 Modify, translate, adapt, alter, or create derivative works of the Software.
 
-This License does not grant you any right in any trademark or logo of Licensor or its affiliates (provided that you may use a trademark or logo of Licensor as expressly required by this License).
+3.2 Decompile, reverse-engineer, disassemble, decrypt, or otherwise attempt to derive the source code or internal logic of the Software or any associated assets.
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON AN "AS IS" BASIS. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND TITLE.
+3.3 Inject, insert, or incorporate any unauthorized code, cheats, hacks, modules, or other third-party software into the Software.
 
-MariaDB hereby grants you permission to use this License's text to license your works, and to refer to it using the trademark "Business Source License", as long as you comply with the Covenants of Licensor below.
+3.4 Remove, obscure, or alter any copyright, trademark, or other proprietary notices on or in the Software.
 
-Covenants of Licensor
+3.5 Rent, lease, sublicense, sell, redistribute, transfer, or otherwise make the Software available to any third party.
 
-In consideration of the right to use this License's text and the "Business Source License" name and trademark, Licensor covenants to MariaDB, and to all other recipients of the licensed work to be provided by Licensor:
+3.6 Use the Software for any unlawful purpose or in violation of any applicable law or regulation.
 
-1. To specify as the Change License the GPL Version 2.0 or any later version, or a license that is compatible with GPL Version 2.0 or a later version, where "compatible" means that software provided under the Change License can be included in a program with software provided under GPL Version 2.0 or a later version. Licensor may specify additional Change Licenses without limitation.
-2. To either: (a) specify an additional grant of rights to use that does not impose any additional restriction on the right granted in this License, as the Additional Use Grant; or (b) insert the text "None".
-3. To specify a Change Date.
-4. Not to modify this License in any other way.
+4. Ownership
+4.1 All rights, title, and interest in and to the Software (including all intellectual property rights) remain solely with Licensor.
+4.2 No rights are granted to you other than those expressly set forth in this Agreement.
+
+5. Updates and Support
+Licensor is under no obligation to provide any updates, enhancements, maintenance, support, or additional functionality.
+
+6. Termination
+6.1 This Agreement remains in effect until terminated.
+6.2 Your rights under this Agreement will terminate automatically without notice if you fail to comply with any term herein.
+6.3 Upon termination, you must cease all use of the Software and delete all copies in your possession or control.
+
+7. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Governing Law and Venue
+This Agreement will be governed by and construed in accordance with federal law of the United States, and any disputes shall be brought exclusively in the United States District Court for the Eastern District of Illinois.
+
+10. Entire Agreement
+This Agreement constitutes the entire agreement between you and Licensor regarding the Software and supersedes all prior or contemporaneous communications, whether electronic, oral, or written.
+
